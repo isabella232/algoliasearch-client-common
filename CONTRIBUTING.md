@@ -13,12 +13,6 @@ Note that some files are managed outside this repository and are committed autom
 
 `.github` directory is manage in [this repository](https://github.com/algolia/algoliasearch-client-common), any Pull Request there are welcome.
 
-### API Breaking changes
-
-We care deeply about backward compatibility for our API clients libraries. If it's necessary, we're ready to break backward compatibility but this is should be pretty rare.
-
-If you want to make breaking changes, open an issue first to discuss it with maintainers.
-
 ## Opening an issue
 
 Each repository provide a template for issues. Please fill the client and language version and provide a clear description of the problem you're facing. Steps to reproduce or example code (repository, jsfiddle and such) are a big help.
@@ -32,6 +26,12 @@ Here are a few tips to increase the likelihood of being merged:
 - [ ] Write tests.
 - [ ] Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) and follow (conventional commits)[https://conventionalcommits.org/].
 - [ ] Allow [edits from maintainers](https://blog.github.com/2016-09-07-improving-collaboration-with-forks/).
+
+### API Breaking changes
+
+We care deeply about backward compatibility for our API clients libraries. If it's necessary, we're ready to break backward compatibility but this is should be pretty rare.
+
+If you want to make breaking changes, open an issue first to discuss it with maintainers.
 
 ## Label caption
 
