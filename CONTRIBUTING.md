@@ -24,7 +24,7 @@ Keep your changes as focused as possible. If there are multiple changes you woul
 Here are a few tips to increase the likelihood of being merged:
 
 - [ ] Write tests.
-- [ ] Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) and follow (conventional commits)[https://conventionalcommits.org/].
+- [ ] Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 - [ ] Allow [edits from maintainers](https://blog.github.com/2016-09-07-improving-collaboration-with-forks/).
 
 ### API Breaking changes
@@ -39,7 +39,7 @@ Labels across all repositories are normalized.
 
 | Label                                                                    | Meaning                                                                                |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| ![#050f2c](https://placehold.it/15/050f2c/000000?text=+) Do not merge    | PR should not be merged as it is (decided by maintainers)                                       |
+| ![#050f2c](https://placehold.it/15/050f2c/000000?text=+) Do not merge    | PR should not be merged as is (decided by maintainers)                                       |
 | ![#ffc168](https://placehold.it/15/ffc168/000000?text=+) WIP             | PR is not ready, no need to look at it (decided by contributors)                       |
 | ![#2ede98](https://placehold.it/15/2ede98/000000?text=+) Ready           | The PR is ready, reviewed, tests are green, if you're brave enough: click merge button |
 | ![#ffc168](https://placehold.it/15/ffc168/000000?text=+) Waiting for API | The feature is implemented but the REST API is not live yet                            |
