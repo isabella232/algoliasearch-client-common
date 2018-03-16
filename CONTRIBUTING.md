@@ -39,19 +39,9 @@ Labels across all repositories are normalized.
 
 <!-- DO NOT EDIT THE TABLE NOR REMOVE HTML COMMENTS -->
 <!-- LABELTABLE -->
-| Label                                                                    | Meaning                                                                                |
-|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| ![#050f2c](https://placehold.it/15/050f2c/000000?text=+) Do not merge    | PR should not be merged as is (decided by maintainers)                                       |
-| ![#ffc168](https://placehold.it/15/ffc168/000000?text=+) WIP             | PR is not ready, no need to look at it (decided by contributors)                       |
-| ![#2ede98](https://placehold.it/15/2ede98/000000?text=+) Ready           | The PR is ready, reviewed, tests are green, if you're brave enough: click merge button |
-| ![#ffc168](https://placehold.it/15/ffc168/000000?text=+) Waiting for API | The feature is implemented but the REST API is not live yet                            |
-| ![#3369e6](https://placehold.it/15/3369e6/000000?text=+) Discussion      | We need everyone's opinion on this, please join the conversation and share your ideas  |
-| ![#3369e6](https://placehold.it/15/3369e6/000000?text=+) Support         | User need help but it's not really a bug                                               |
-| ![#3369e6](https://placehold.it/15/3369e6/000000?text=+) API feature     | New API feature added to every client (like query rules)                               |
-| ![#3369e6](https://placehold.it/15/3369e6/000000?text=+) Chore           | CI, docs, and everything around the code                                               |
-| ![#ff4f81](https://placehold.it/15/ff4f81/000000?text=+) Bug             | It's a bug, fix it!                                                                    |
-| ![#b60205](https://placehold.it/15/b60205/000000?text=+) Breaking change | RED ALERT! This means we need a new major version                                      |
-| ![#ff6c5f](https://placehold.it/15/ff6c5f/000000?text=+) Easy Pick       | If you want to contribute, this one is _easy_ to tackle!                               |
+| Label                                                                 | Meaning                                          |
+|-----------------------------------------------------------------------|--------------------------------------------------|
+| ![#050f2c](https://placehold.it/15/050f2c/000000?text=+) Do not merge | PR should not be merged (decided by maintainers) |
 
 <!-- /LABELTABLE -->
 <!-- DO NOT REMOVE ANY HTML COMMENT -->
