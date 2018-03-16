@@ -37,6 +37,8 @@ If you want to make breaking changes, open an issue first to discuss it with mai
 
 Labels across all repositories are normalized.
 
+<!-- DO NOT EDIT THE TABLE NOR REMOVE HTML COMMENTS -->
+<!-- LABELTABLE -->
 | Label                                                                    | Meaning                                                                                |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | ![#050f2c](https://placehold.it/15/050f2c/000000?text=+) Do not merge    | PR should not be merged as is (decided by maintainers)                                       |
@@ -50,6 +52,9 @@ Labels across all repositories are normalized.
 | ![#ff4f81](https://placehold.it/15/ff4f81/000000?text=+) Bug             | It's a bug, fix it!                                                                    |
 | ![#b60205](https://placehold.it/15/b60205/000000?text=+) Breaking change | RED ALERT! This means we need a new major version                                      |
 | ![#ff6c5f](https://placehold.it/15/ff6c5f/000000?text=+) Easy Pick       | If you want to contribute, this one is _easy_ to tackle!                               |
+
+<!-- /LABELTABLE -->
+<!-- DO NOT REMOVE ANY HTML COMMENT -->
 
 ## Resources
 
