@@ -1,0 +1,49 @@
+## Status
+-
+  name: "Do not merge"
+  color: "050f2c" # deep cove
+  description: "PR should not be merged (decided by maintainers)"
+-
+  name: "WIP"
+  color: "ffc168" # Koromiko
+  description: "PR is not ready, no need to look at it (decided by contributors)"
+-
+  name: "Ready"
+  color: "2ede98" # green Shamrock
+  description: "The PR is ready, reviewed, tests are green, if you're brave enough: click merge button"
+-
+  name: "Waiting for API"
+  color: "ffc168" # Koromiko
+  description: "The feature is implemented but the REST API is not live yet"
+
+## Types
+-
+  name: "Discussion"
+  color: "3369e6" #blue
+  description: "We need everyone's opinion on this, please join the conversation and share your ideas"
+-
+  name: "Support"
+  color: "3369e6" #blue
+  description: "User need help but it's not really a bug"
+-
+  name: "API feature"
+  color: "3369e6" #blue
+  description: "New API feature added to every client (like query rules)"
+-
+  name: "Chore"
+  color: "3369e6" #blue
+  description: "CI, docs, and everything around the code"
+-
+  name: "Bug"
+  color: "ff4f81"
+  description: "It's a bug, fix it!"
+
+## Meta
+-
+  name: "Breaking change"
+  color: "b60205" #  red
+  description: "RED ALERT! This means we need a new major version"
+-
+  name: "Easy Pick"
+  color: "ff6c5f" # Bittersweet
+  description: "If you want to contribute, this one is _easy_ to tackle!"
