@@ -9,17 +9,22 @@ Your help is essential for keeping it great.
 
 Note that some files are managed outside this repository and are committed automatically.
 
-`README.md` are is generated automatically from our doc. If you'd like to see more details about something, feel free to open an issue.
+The `README.md` is generated automatically from our doc. If you'd like to see more details
+about something, feel free to open an issue.
 
-`.github` directory is manage in [this repository](https://github.com/algolia/algoliasearch-client-common), any Pull Request there are welcome.
+`.github` directory is manage in [this repository](https://github.com/algolia/algoliasearch-client-common),
+any Pull Request there is welcome.
 
 ## Opening an issue
 
-Each repository provide a template for issues. Please fill the client and language version and provide a clear description of the problem you're facing. Steps to reproduce or example code (repository, jsfiddle and such) are a big help.
+Each repository provide a template for issues. Please fill the client and language version and
+provide a clear description of the problem you're facing. Steps to reproduce or example code
+(repository, jsfiddle and such) are a big help.
 
 ## Submitting a pull request
 
-Keep your changes as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
+Keep your changes as focused as possible. If there are multiple changes you would like to make,
+please consider submitting them as separate pull requests unless they are related to each others.
 
 Here are a few tips to increase the likelihood of being merged:
 
@@ -29,9 +34,10 @@ Here are a few tips to increase the likelihood of being merged:
 
 ### API Breaking changes
 
-We care deeply about backward compatibility for our API clients libraries. If it's necessary, we're ready to break backward compatibility but this is should be pretty rare.
+We care deeply about backward compatibility for our API clients libraries. If it's necessary,
+we're ready to break backward compatibility but this should be pretty rare.
 
-If you want to make breaking changes, open an issue first to discuss it with maintainers.
+If you want to make breaking changes, open an issue first to discuss it with the maintainers.
 
 ## Label caption
 

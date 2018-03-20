@@ -24,7 +24,7 @@
 -
   name: "Support"
   color: "3369e6" #blue
-  description: "User need help but it's not really a bug"
+  description: "A user needs help but it's not really a bug"
 -
   name: "API feature"
   color: "3369e6" #blue
