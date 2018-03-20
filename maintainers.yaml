@@ -12,22 +12,22 @@ algolia/algoliasearch-client-python:
 
 algolia/algoliasearch-client-go:
   - Anthony Seure <anthony.seure@algolia.com>
-  - Rémy-Christophe Schermesser <remychristophe.schermesser@algolia.com>
+  - Rémy-Christophe Schermesser <rcs@algolia.com>
 
 algolia/algoliasearch-client-csharp:
   - Guy Daher <guy.daher@algolia.com>
   - Baptiste Coquelle <baptiste.coquelle@algolia.com>
 
 algolia/algoliasearch-client-java:
-  - Rémy-Christophe Schermesser <remychristophe.schermesser@algolia.com>
+  - Rémy-Christophe Schermesser <rcs@algolia.com>
   - Anthony Seure <anthony.seure@algolia.com>
 
 algolia/algoliasearch-client-java-2:
-  - Rémy-Christophe Schermesser <remychristophe.schermesser@algolia.com>
+  - Rémy-Christophe Schermesser <rcs@algolia.com>
   - Anthony Seure <anthony.seure@algolia.com>
 
 algolia/algoliasearch-client-scala:
-  - Rémy-Christophe Schermesser <remychristophe.schermesser@algolia.com>
+  - Rémy-Christophe Schermesser <rcs@algolia.com>
   - Anthony Seure <anthony.seure@algolia.com>
 
 
