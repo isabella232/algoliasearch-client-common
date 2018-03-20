@@ -1,0 +1,49 @@
+algolia/algoliasearch-client-php:
+  - Julien Bourdeau <julien.bourdeau@algolia.com>
+  - Raymond Rutjes <raymond.rutjes@algolia.com>
+
+algolia/algoliasearch-client-ruby:
+  - Raphael Daguenet <raphael.daguenet@algolia.com>
+  - Matthieu Dumont <matthieu.dumont@algolia.com>
+
+algolia/algoliasearch-client-python:
+  - Léo Ercolanelli <leo.ercolanelli@algolia.com>
+  - Paul-Louis Nech <support@algolia.com>
+
+algolia/algoliasearch-client-go:
+  - Anthony Seure <anthony.seure@algolia.com>
+  - Rémy-Christophe Schermesser <remychristophe.schermesser@algolia.com>
+
+algolia/algoliasearch-client-csharp:
+  - Guy Daher <guy.daher@algolia.com>
+  - Baptiste Coquelle <baptiste.coquelle@algolia.com>
+
+algolia/algoliasearch-client-java:
+  - Rémy-Christophe Schermesser <remychristophe.schermesser@algolia.com>
+  - Anthony Seure <anthony.seure@algolia.com>
+
+algolia/algoliasearch-client-java-2:
+  - Rémy-Christophe Schermesser <remychristophe.schermesser@algolia.com>
+  - Anthony Seure <anthony.seure@algolia.com>
+
+algolia/algoliasearch-client-scala:
+  - Rémy-Christophe Schermesser <remychristophe.schermesser@algolia.com>
+  - Anthony Seure <anthony.seure@algolia.com>
+
+
+algolia/search-bundle:
+  - Julien Bourdeau <julien.bourdeau@algolia.com>
+
+algolia/algoliasearch-rails:
+  - Raphael Daguenet <raphael.daguenet@algolia.com>
+  - Matthieu Dumont <matthieu.dumont@algolia.com>
+
+algolia/algoliasearch-django:
+  - Paul-Louis Nech <support@algolia.com>
+
+
+algolia/laravel-scout-settings:
+  - Julien Bourdeau <julien.bourdeau@algolia.com>
+
+algolia/laravel-scout-algolia-macros:
+  - Julien Bourdeau <julien.bourdeau@algolia.com>
