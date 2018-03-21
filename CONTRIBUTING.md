@@ -12,19 +12,19 @@ Note that some files are managed outside this repository and are committed autom
 The `README.md` is generated automatically from our doc. If you'd like to see more details
 about something, feel free to open an issue.
 
-`.github` directory is manage in [this repository](https://github.com/algolia/algoliasearch-client-common),
+`.github` directory is managed in [this repository](https://github.com/algolia/algoliasearch-client-common),
 any Pull Request there is welcome.
 
 ## Opening an issue
 
-Each repository provide a template for issues. Please fill the client and language version and
+Each repository provides a template for issues. Please fill the client and language version and
 provide a clear description of the problem you're facing. Steps to reproduce or example code
 (repository, jsfiddle and such) are a big help.
 
 ## Submitting a pull request
 
 Keep your changes as focused as possible. If there are multiple changes you would like to make,
-please consider submitting them as separate pull requests unless they are related to each others.
+please consider submitting them as separate pull requests unless they are related to each other.
 
 Here are a few tips to increase the likelihood of being merged:
 
@@ -41,7 +41,7 @@ If you want to make breaking changes, open an issue first to discuss it with the
 
 ## Label caption
 
-Labels across all repositories are normalized.
+Labels across all Algolia API clients repositories are normalized.
 
 <!-- DO NOT EDIT THE TABLE NOR REMOVE HTML COMMENTS -->
 <!-- LABELTABLE -->
