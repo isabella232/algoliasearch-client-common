@@ -11,6 +11,7 @@ If you need support, please use:
 
 -->
 
+<!-- Custom Version -->
 - Algolia Client Version: #.#.#
 - Language Version:
 
