@@ -29,7 +29,7 @@ We care deeply about backward compatibility for our API clients libraries.
 If it's necessary, we're ready to break backward compatibility,
 but this should be pretty rare.
 
-If you want to make a change that will not be backward compatible, 
+If you want to make a change that will break the backward compatibility of the API, 
 open an issue first to discuss it with the maintainers.
 
 ### Editing `README.md` and similar files
