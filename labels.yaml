@@ -44,6 +44,6 @@
   color: "b60205" #  red
   description: "RED ALERT! This means we need a new major version"
 -
-  name: "Easy Pick"
+  name: "Good First Issue"
   color: "ff6c5f" # Bittersweet
   description: "If you want to contribute, this one is _easy_ to tackle!"
