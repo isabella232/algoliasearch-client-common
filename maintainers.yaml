@@ -25,11 +25,14 @@ algolia/algoliasearch-client-java:
 algolia/algoliasearch-client-java-2:
   - Rémy-Christophe Schermesser <rcs@algolia.com>
   - Anthony Seure <anthony.seure@algolia.com>
+  
+algolia/algoliasearch-client-javascript:
+  - Haroen Viaene <haroen.viaene@algolia.com>
+  - Vincent Voyer <vincent.voyer@algolia.com>
 
 algolia/algoliasearch-client-scala:
   - Rémy-Christophe Schermesser <rcs@algolia.com>
   - Anthony Seure <anthony.seure@algolia.com>
-
 
 algolia/search-bundle:
   - Julien Bourdeau <julien.bourdeau@algolia.com>
