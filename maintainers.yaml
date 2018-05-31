@@ -7,8 +7,8 @@ algolia/algoliasearch-client-ruby:
   - Matthieu Dumont <matthieu.dumont@algolia.com>
 
 algolia/algoliasearch-client-python:
-  - Léo Ercolanelli <leo.ercolanelli@algolia.com>
-  - Paul-Louis Nech <support@algolia.com>
+  - Léo Ercolanelli <leo.ercolanelli@algolia.com>  
+  - Julien Bourdeau <julien.bourdeau@algolia.com>
 
 algolia/algoliasearch-client-go:
   - Anthony Seure <anthony.seure@algolia.com>
