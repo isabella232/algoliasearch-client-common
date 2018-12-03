@@ -38,8 +38,8 @@ algolia/search-bundle:
   - Julien Bourdeau <julien.bourdeau@algolia.com>
 
 algolia/algoliasearch-rails:
+  - Julien Bourdeau <julien.bourdeau@algolia.com>
   - Matthieu Dumont <matthieu.dumont@algolia.com>
-  - Raphael Daguenet <raphael.daguenet@algolia.com>
 
 algolia/algoliasearch-django:
   - Paul-Louis Nech <support@algolia.com>
