@@ -1,14 +1,17 @@
 algolia/algoliasearch-client-php:
   - Julien Bourdeau <julien.bourdeau@algolia.com>
+  - Nuno Maduro <nuno.maduro@algolia.com>
   - Raymond Rutjes <raymond.rutjes@algolia.com>
 
 algolia/algoliasearch-client-ruby:
-  - Raphael Daguenet <raphael.daguenet@algolia.com>
   - Matthieu Dumont <matthieu.dumont@algolia.com>
+  - Nuno Maduro <nuno.maduro@algolia.com>
+  - Raphael Daguenet <raphael.daguenet@algolia.com>
 
 algolia/algoliasearch-client-python:
   - Léo Ercolanelli <leo.ercolanelli@algolia.com>  
   - Julien Bourdeau <julien.bourdeau@algolia.com>
+  - Nuno Maduro <nuno.maduro@algolia.com>
 
 algolia/algoliasearch-client-go:
   - Anthony Seure <anthony.seure@algolia.com>
@@ -44,9 +47,14 @@ algolia/algoliasearch-rails:
 algolia/algoliasearch-django:
   - Paul-Louis Nech <support@algolia.com>
 
-
 algolia/laravel-scout-settings:
   - Julien Bourdeau <julien.bourdeau@algolia.com>
+  - Nuno Maduro <nuno.maduro@algolia.com>
 
 algolia/laravel-scout-algolia-macros:
   - Julien Bourdeau <julien.bourdeau@algolia.com>
+  - Nuno Maduro <nuno.maduro@algolia.com>
+
+algolia/scout-extended:
+  - Julien Bourdeau <julien.bourdeau@algolia.com>
+  - Nuno Maduro <nuno.maduro@algolia.com>
