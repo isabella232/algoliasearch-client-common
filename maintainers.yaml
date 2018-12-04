@@ -1,6 +1,6 @@
 algolia/algoliasearch-client-php:
-  - Julien Bourdeau <julien.bourdeau@algolia.com>
   - Nuno Maduro <nuno.maduro@algolia.com>
+  - Julien Bourdeau <julien.bourdeau@algolia.com>
 
 algolia/algoliasearch-client-ruby:
   - Nuno Maduro <nuno.maduro@algolia.com>
