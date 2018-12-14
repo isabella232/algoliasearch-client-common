@@ -21,7 +21,7 @@ Here are a few tips to increase the likelihood of being merged:
 - [ ] Allow [edits from maintainers](https://blog.github.com/2016-09-07-improving-collaboration-with-forks/).
 
 ### Security issues
-If you find any security risk in the project, please open an issue.
+If you discover a security vulnerability in the project, please send an e-mail to one of the maintainers. All security vulnerabilities will be promptly addressed.
 
 ### API Breaking changes
 
