@@ -15,15 +15,15 @@ algolia/algoliasearch-client-go:
   - Rémy-Christophe Schermesser <rcs@algolia.com>
 
 algolia/algoliasearch-client-csharp:
-  - Guy Daher <guy.daher@algolia.com>
-  - Baptiste Coquelle <baptiste.coquelle@algolia.com>
+  - Antoine Hémery <antoine.hemery@algolia.com>
+  - Anthony Seure <anthony.seure@algolia.com>
 
 algolia/algoliasearch-client-java:
-  - Rémy-Christophe Schermesser <rcs@algolia.com>
+  - Antoine Hémery <antoine.hemery@algolia.com>
   - Anthony Seure <anthony.seure@algolia.com>
 
 algolia/algoliasearch-client-java-2:
-  - Rémy-Christophe Schermesser <rcs@algolia.com>
+  - Antoine Hémery <antoine.hemery@algolia.com>
   - Anthony Seure <anthony.seure@algolia.com>
   
 algolia/algoliasearch-client-javascript:
@@ -31,8 +31,8 @@ algolia/algoliasearch-client-javascript:
   - Vincent Voyer <vincent.voyer@algolia.com>
 
 algolia/algoliasearch-client-scala:
-  - Rémy-Christophe Schermesser <rcs@algolia.com>
   - Anthony Seure <anthony.seure@algolia.com>
+  - Antoine Hémery <antoine.hemery@algolia.com>
 
 algolia/search-bundle:
   - Julien Bourdeau <julien.bourdeau@algolia.com>
